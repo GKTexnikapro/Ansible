@@ -1,8 +1,0 @@
-[TT_Mikrotik]
-Adelia_Kut_MF_MTS ansible_host=91.144.141.215
-Adelia_Kut_T2 ansible_host=10.16.11.1
-Kukmor_T2 ansible_host=10.16.12.1
-[TT_Mikrotik:vars]
-ansible_python_interpreter=/usr/bin/python3
-ansible_user=ansible
-ansible_ssh_private_key_file=/home/ubuntu/.ssh/id_rsa
